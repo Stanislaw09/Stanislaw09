@@ -1,4 +1,6 @@
-### 👋 Hi, I’m Stanislaw
+# 👋 Hi, I’m Stanislaw
+
+
 - I’m a front-end developer interested in everything related to web dev - love reading about new stuff
 - Working with React & React Native. The first one is my favourite though
 - Proficient in React, NextJs, React Native, TypeScript, JavaScript, CSS
