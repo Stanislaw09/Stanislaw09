@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Stanislaw
+# 👋 Yo, I’m Stanislaw
 
 
 - I’m a front-end developer interested in everything related to web dev - love reading about new stuff
